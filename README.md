@@ -1,1 +1,3 @@
-# todo-app-with-server-SB
+Сервер и клиент приложения Todo
+
+(Подключить сервер локально node index.js)
